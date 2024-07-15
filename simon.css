@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+
+}
+
+div{
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 500px;
+    margin-top: 50px;
+    
+}
+.red{
+    background-color: rgb(238, 104, 104);
+    border:5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.green{
+    background-color: rgb(76, 119, 76);
+    border:5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.orange{
+    background-color:rgb(224, 179, 95);
+    border:5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.blue{
+    background-color: rgb(94, 94, 191);
+    border:5px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color:black;
+}
